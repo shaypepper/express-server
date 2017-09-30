@@ -7,18 +7,18 @@
     "test": "cd example && npm run test"
   },
   "dependencies": {
-    "ejs": "2.4.1",
-    "underscore": "1.8.3",
-    "underscore.string": "3.2.3",
-    "yaml-config": "0.3.0",
-    "express": "4.13.3",
-    "moment": "2.11.2",
-    "glob": "7.0.3"
+    "ejs": "*",
+    "express": "*",
+    "glob": "*",
+    "moment": "*",
+    "underscore": "*",
+    "underscore.string": "*",
+    "yaml-config": "*"
   },
   "devDependencies": {
-    "gulp": "3.9.0",
-    "gulp-mocha": "2.2.0",
-    "should": "8.2.1",
-    "yargs": "3.32.0"
+    "gulp": "*",
+    "gulp-mocha": "*",
+    "should": "*",
+    "yargs": "*"
   }
 }
